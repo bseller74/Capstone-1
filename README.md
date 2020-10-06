@@ -1,4 +1,10 @@
 # Capstone-1
 Vending Machine Simulator
-- Pair programmed a vending machine program using Java and file I/O, then tested with JUnit
-- The simulator accepted bills, gave change displayed options from the read in list and wrote to a log file for every interaction
+Managed inventory of snacks
+The simulator accepted bills and gives correct change 
+Logs interactions between customers and machine
+ 
+Technology Used: 
+Data files with Java file IO
+J2SE Object Oriented Programming with Inheritance and Polymorphism 
+Unit testing through JUnit
